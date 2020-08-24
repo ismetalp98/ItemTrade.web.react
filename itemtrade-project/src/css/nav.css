@@ -1,0 +1,40 @@
+
+a {
+    text-decoration: none;
+    margin-left: 15px;
+    margin-right: auto;
+    color: black;
+    font-size: x-large;
+}
+
+
+.nav {
+    display: flex;
+    justify-content: flex-end;
+    align-items: center;
+    position: sticky;
+}
+
+.nav_buttons{
+    margin-right: 30px;
+    list-style: none;
+    display: flex;
+}
+
+.nav_buttons > .nav_button{
+    padding: 0px 10px;
+}
+
+.notlogined_buttons{
+    list-style: none;
+    display: flex;
+}
+
+.notlogined_buttons > .notlogined_button{
+    padding: 0px 0px;
+}
+
+#sellButton{
+    border-radius: 20px;
+    background-color: rgb(255, 63, 85);
+}

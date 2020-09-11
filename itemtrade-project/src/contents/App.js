@@ -8,9 +8,9 @@ function App() {
   return (
     <div>
       <Nav notlogined={false} />
-      <section className = "mainsection">
-      <Main/>
-      </section>    
+      <section className="mainsection">
+        <Main />
+      </section>
     </div>
   )
 }

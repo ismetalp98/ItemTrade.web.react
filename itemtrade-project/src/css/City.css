@@ -1,0 +1,25 @@
+.citydo {
+    margin: 4px;
+    box-sizing: border-box;
+    display: inline-flex;
+}
+
+.citya {
+    text-decoration: none;
+    cursor: pointer;
+}
+
+.cityd {
+    border-radius: 8%;
+    display: flex;
+    position: relative;
+    align-items: center;
+    box-shadow: var(--boxshadow);
+}
+
+.citys {
+    padding: 16px;
+    box-sizing: border-box;
+    height: 52px;
+    color: rgb(66, 66, 66);
+}

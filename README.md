@@ -1,5 +1,6 @@
-# ItemTrade.web.react
+# ItemTrade.web.react (nc)
 
-Clone of Letgo
-Competible with my other 2 project "ItemTrade" and "ItemTrade.IOS"
-Use Firebase as Database
+* Clone of Letgo
+* Uses same database with my other two project "ItemTrade" and "ItemTrade.IOS"
+* Works competible with these two project
+* Uses Firebase as database
